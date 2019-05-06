@@ -19,3 +19,5 @@ Heart diseases which is also known as cardiovascular diseases (CVDs). <br/>
 
 Dataset :<nr/>
 Data set is taken from https://archive.ics.uci.edu/ml/datasets/heart+Disease .<br/>
+<br/>
+workflow of differnt algorithm is in .ipynb file.<br/>
