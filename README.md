@@ -21,3 +21,6 @@ Dataset :<nr/>
 Data set is taken from https://archive.ics.uci.edu/ml/datasets/heart+Disease .<br/>
 <br/>
 workflow of differnt algorithm is in .ipynb file.<br/>
+
+
+To run python program make sure that the path of dataset in line 52 is same as the path in your pc.<br/>
